@@ -1,4 +1,7 @@
 # Progress-Steps :elf_woman:
+
+* You can click on this link for the live version of my project: https://codepen.io/beyzadev/pen/xxYpOOj
+
 * In this project, I made the payment screens. 
 
 * Once the payment stages are completed, we can go to the next screen with the "Next" button. 
