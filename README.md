@@ -1,7 +1,7 @@
 # Progress-Steps :elf_woman:
-** In this project, I made the payment screens. **
+* In this project, I made the payment screens. 
 
-** Once the payment stages are completed, we can go to the next screen with the "Next" button. **
+** Once the payment stages are completed, we can go to the next screen with the "Next" button. 
 
 ** When we come to our last page, the "Next" button turns black, this shows us that there is no other stage left. **
 
