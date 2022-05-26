@@ -14,11 +14,11 @@
 
 ![screenshots1](https://user-images.githubusercontent.com/66977215/170558923-8ec5af26-7377-4963-acb6-4d7763b11037.png)
 
-* We press the "Next" button and move on to the next stage. *
+* We press the "Next" button and move on to the next stage. 
 
 ---------
 
-* Just like this: *
+* Just like this: 
 
 ![screenshots2](https://user-images.githubusercontent.com/66977215/170559561-e9ba9f93-70b0-445b-8664-c023592eb744.png)
 
