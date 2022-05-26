@@ -32,6 +32,9 @@
 
 * Here all the steps are completed. Since there is no other stage left, our "Next" button has been completed and turned black. 
 
+![Screen Shot 2022-05-26 at 21 54 07](https://user-images.githubusercontent.com/66977215/170561676-08388e3e-a5b2-4ec0-88f1-772afe2957a1.png)
+
+
 * If we want to check the information we entered, we can press the "Prev" button and return to the previous stages. 
 
 * Do not forget that after the first stage, the "Prev" button will also turn black, as there is no other stage left. 
