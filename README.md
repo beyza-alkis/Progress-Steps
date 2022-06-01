@@ -1,6 +1,6 @@
 # Progress-Steps :elf_woman:
 
-* You can click on this link for the live version of my project: https://codepen.io/beyzadev/pen/xxYpOOj
+* You can click on this link for the live version of my project: https://codepen.io/beyzalkis/pen/xxYpOOj
 
 * In this project, I made the payment screens. 
 
